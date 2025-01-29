@@ -1,3 +1,4 @@
+
 ## 🎓 ברוכים הבאים למדריך LeetCode
 
 ברוכים הבאים ל**מדריך למתחילים בליטקוד**! מדריך זה נועד לסטודנטים שמעולם לא השתמשו בליטקוד ורוצים להתחיל להשתמש בפלטפורמה בצורה יעילה.
@@ -161,7 +162,7 @@
 
 ![אזור קידוד](images/image-22.png)
 
-<div style="direction: ltr;">
+<div style="direction: ltr;" markdown="1">
 
 ```cpp
 class Solution {
@@ -185,7 +186,7 @@ public:
 
 1. **צור `main.cpp`:**
 
-<div style="direction: ltr;">
+<div style="direction: ltr;" markdown="1">
 
 ```cpp
     // In local environment, we need to include the libraries
@@ -231,7 +232,7 @@ public:
 
 **דוגמה עם הצהרת הדפסה:**
 
-<div style="direction: ltr;">
+<div style="direction: ltr;" markdown="1">
 
 ```cpp
 class Solution {
@@ -258,7 +259,7 @@ public:
 
 ![פונקציית Python](images/image-23.png)
 
-<div style="direction: ltr;">
+<div style="direction: ltr;" markdown="1">
 
 ```python
 class Solution(object):
@@ -282,7 +283,7 @@ class Solution(object):
 
 1. **צור `main.py`:**
 
-<div style="direction: ltr;">
+<div style="direction: ltr;" markdown="1">
 
 ```python
 class Solution(object):
@@ -318,7 +319,7 @@ if __name__ == "__main__":
 
 **דוגמה עם הצהרת הדפסה:**
 
-<div style="direction: ltr;">
+<div style="direction: ltr;" markdown="1">
 
 ```python
 class Solution(object):

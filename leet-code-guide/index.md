@@ -17,11 +17,11 @@ title: "LeetCode Guide"
 </div>
 
 <!-- English Content -->
-<div id="content-en" markdown="1">
+<div id="content-en" class="lang-en" markdown="1">
   {% include content-en.md %}
 </div>
 <!-- Hebrew Content -->
-<div id="content-he" style="direction: rtl;" markdown="1">
+<div id="content-he" class="lang-he" style="display: none; direction: rtl;" markdown="1">
   {% include content-he.md %}
 </div>
 
@@ -76,6 +76,8 @@ Want to learn how this site was created and deployed? Check out these resources:
 ---
 
 
+
+<!-- JavaScript for Language Toggling -->
 <script>
   function setLanguage(lang) {
     if (lang === 'he') {
@@ -86,7 +88,13 @@ Want to learn how this site was created and deployed? Check out these resources:
       document.getElementById("content-he").style.display = "none";
     }
   }
+
+  // Set default language on page load
+  document.addEventListener("DOMContentLoaded", function() {
+    // You can set the default language here. For example, default to English:
+    setLanguage('en');
+
+    
+  });
 </script>
-
-
 
