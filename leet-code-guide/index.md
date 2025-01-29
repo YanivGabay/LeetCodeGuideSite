@@ -5,6 +5,11 @@ title: LeetCode Guide
 
 # Welcome to LeetCode Guide
 
+title: [The title of your site]
+description: [A short description of your site's purpose]
+
+
+
 ## Introduction
 A comprehensive guide to help you master LeetCode problems and improve your coding skills.
 
