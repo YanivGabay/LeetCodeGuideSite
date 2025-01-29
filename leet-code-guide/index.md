@@ -17,11 +17,11 @@ title: "LeetCode Guide"
 </div>
 
 <!-- English Content -->
-<div id="content-en">
+<div id="content-en" markdown="1">
   {% include content-en.md %}
 </div>
 <!-- Hebrew Content -->
-<div id="content-he" style="display:none; direction: rtl;">
+<div id="content-he" style="display:none; direction: rtl;" markdown="1">
   {% include content-he.md %}
 </div>
 
