@@ -1,3 +1,4 @@
+
 ## 🎓 Welcome to LeetCode Guide
 
 Welcome to the **LeetCode Beginner's Guide**! This guide is designed for students who have **never used LeetCode** before and want to start utilizing the platform effectively.

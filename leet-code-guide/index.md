@@ -5,23 +5,23 @@ title: "LeetCode Guide"
 
 # 🌍 LeetCode Beginner's Guide
 
-<div id="content-he" style="direction: rtl;">
+<div id="content-he" markdown="1" style="direction: rtl;">
 
 # 🌍 מדריך למתחילים בליטקוד
 
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
-<button onclick="setLanguage('en')">🇺🇸 English</button>
+<button onclick="setLanguage('en')">English</button>
 <button onclick="setLanguage('he')">🇮🇱 עברית</button>
 </div>
 
 <!-- English Content -->
-<div id="content-en">
+<div id="content-en" markdown="1">
   {% include content-en.md %}
 </div>
 <!-- Hebrew Content -->
-<div id="content-he" style="display:none; direction: rtl;">
+<div id="content-he" style="direction: rtl;" markdown="1">
   {% include content-he.md %}
 </div>
 
