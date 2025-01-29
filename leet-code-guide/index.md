@@ -21,7 +21,9 @@ title: "LeetCode Guide"
   {% include content-en.md %}
 </div>
 <!-- Hebrew Content -->
+
 <div id="content-he" class="lang-he" style="display: none; direction: rtl;" markdown="1">
+
   {% include content-he.md %}
 </div>
 
