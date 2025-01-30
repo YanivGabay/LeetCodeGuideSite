@@ -87,7 +87,7 @@ Want to learn how this site was created and deployed? Check out these resources:
   // Set default language on page load
   document.addEventListener("DOMContentLoaded", function() {
     // You can set the default language here. For example, default to English:
-    setLanguage('en');
+    setLanguage('he');
 
     
   });
