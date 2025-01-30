@@ -34,30 +34,29 @@ LeetCode has become a **comprehensive resource** for **coding interview question
    - ![First time you're not logged in]({{/assets/image.png| relative_url}})
 2. **Sign In via GitHub:**
    - Click **Sign In** and choose the GitHub option for a streamlined login process.
-   - ![Sign-In Options]({{/assets/image-1.png | relative_url}})
-   - ![Login via GitHub]({{/assets/image-2.png | relative_url}})
+   - ![Sign-In Options]({{ BASE_PATH }}/assets/images/image-1.png)
+   - ![Login via GitHub]({{ BASE_PATH }}/assets/images/image-2.png)
 
 3. **Logged-In Homepage:**
    - Once logged in, your homepage will display various navigation options.
-   - ![Basic LeetCode Page]({{/assets/image-3.png | relative_url}})
+   - ![Basic LeetCode Page]({{ BASE_PATH }}/assets/images/image-3.png)
 
 ### 🧭 Navigating the Platform
 
-![Navigation Bar]({{/assets/image-4.png | relative_url}})
-
+![Navigation Bar]({{ BASE_PATH }}/assets/images/image-4.png)
 LeetCode offers several key sections:
 
 - **🔍 Explore:**
   - Browse questions categorized visually by different topics.
-  - ![Explore Page]({{/assets/image-5.png | relative_url}})
+  - ![Explore Page]({{ BASE_PATH }}/assets/images/image-5.png)
 
 - **📚 Problems:**
   - Access a comprehensive list of coding problems.
   - **Filters Available:**
     - **Difficulty:** Easy, Medium, Hard
     - **Tags:** Array, String, Tree, SQL, etc.
-  - ![Problem Page]({{/assets/image-6.png | relative_url}})
-  - ![Bottom of Problem Page]({{/assets/image-7.png | relative_url}})
+  - ![Problem Page]({{ BASE_PATH }}/assets/images/image-6.png)
+  - ![Bottom of Problem Page]({{ BASE_PATH }}/assets/images/image-7.png)
 
 - **🏆 Contests:**
   - Participate in weekly coding contests.
@@ -80,22 +79,22 @@ LeetCode offers several key sections:
 
 2. **Filter by Difficulty:**
    - Select **Easy** to start with manageable problems.
-   - ![Pressing Easy]({{/assets/image-8.png | relative_url}})
+   - ![Pressing Easy]({{ BASE_PATH }}/assets/images/image-8.png)
 
 3. **Daily Challenge:**
    - The first question is the **Daily Challenge**.
    - Solve it daily to build a streak, visible on your profile.
-   - ![Daily Challenge]({{/assets/image-9.png | relative_url}})
+   - ![Daily Challenge]({{ BASE_PATH }}/assets/images/image-9.png)
 
 4. **Explore the List:**
-   - ![Problems List]({{/assets/image-10.png | relative_url}})
+   - ![Problems List]({{ BASE_PATH }}/assets/images/image-10.png)
    - **Status:** Indicates if you've solved the problem.
    - **Acceptance Rate:** Percentage of users who solved it.
    - **Lock Icon:** Premium feature showing interview frequency and acceptance rate *(not recommended)*.
 
 5. **Unsolved Problems:**
    - These problems are yet to be tackled.
-   - ![Unsolved Problems]({{/assets/image-11.png | relative_url}})
+   - ![Unsolved Problems]({{ BASE_PATH }}/assets/images/image-11.png)
 
 ---
 
@@ -103,23 +102,23 @@ LeetCode offers several key sections:
 
 1. **Select an Unsolved Problem:**
    - Click on a problem you haven't solved yet.
-   - ![Merge Sorted Array]({{/assets/image-12.png | relative_url}})
+   - ![Merge Sorted Array]({{ BASE_PATH }}/assets/images/image-12.png)
 
 2. **Understand the Problem Page:**
    - **Coding Area:** Write your code here.
-     - ![Coding Area]({{/assets/image-13.png | relative_url}})
+     - ![Coding Area]({{ BASE_PATH }}/assets/images/image-13.png)
    - **Language Selection:** Choose your preferred programming language.
-     - ![Language Selection]({{/assets/image-14.png | relative_url}})
+     - ![Language Selection]({{ BASE_PATH }}/assets/images/image-14.png)
 
    **Note:** LeetCode provides necessary libraries; no need to import them manually.
 
 3. **Test Cases:**
-   - ![Test Case Area]({{/assets/image-18.png | relative_url}})
+   - ![Test Case Area]({{ BASE_PATH }}/assets/images/image-18.png)
    - You can edit the input values and run basic test cases.
    - Can add your own tests by pressing **+**.
 
 4. **Submitting Your Solution:**
-    - ![Run vs Submit]({{/assets/image-19.png | relative_url}})
+    - ![Run vs Submit]({{ BASE_PATH }}/assets/images/image-19.png)
 
    - **Run vs. Submit:**
      - **Run:** Quick checks with limited test cases.
@@ -127,10 +126,10 @@ LeetCode offers several key sections:
    - **Post-Submission:**
      - View how your solution performs compared to others.
      - If successful, the problem is marked as **solved**.
-     - ![Successful Submission]({{/assets/image-20.png | relative_url}})
+     - ![Successful Submission]({{ BASE_PATH }}/assets/images/image-20.png)
 
 5. **Problem Description:**
-   - ![Problem Area]({{/assets/image-15.png | relative_url}})
+   - ![Problem Area]({{ BASE_PATH }}/assets/images/image-15.png)
    - **Tabs Available:**
      - **Description:** Problem statement and constraints.
      - **Editorial:** *(Premium feature, not recommended.)*
@@ -138,9 +137,9 @@ LeetCode offers several key sections:
      - **Submissions:** Your past attempts and their performance.
 
 6. **Viewing Solutions:**
-   - ![Solutions Example]({{/assets/image-16.png | relative_url}})
+   - ![Solutions Example]({{ BASE_PATH }}/assets/images/image-16.png)
    - Filter by language and explore different approaches.
-   - ![Solution]({{/assets/image-17.png | relative_url}})
+   - ![Solution]({{ BASE_PATH }}/assets/images/image-17.png)
    - View explanations, code, and community comments.
 
 ---
@@ -159,7 +158,7 @@ I will demonstrate how to use the coding area with **C++** and **Python**. Feel 
 
 If you select the question [Two Sum](https://leetcode.com/problems/two-sum), you'll see the following function signature:
 
-![Coding Area]({{/assets/image-22.png | relative_url}})
+![Coding Area]({{ BASE_PATH }}/assets/images/image-22.png)
 
 ```cpp
 class Solution {
@@ -234,7 +233,7 @@ public:
 ```
 
 - **Run Result:**
-  ![Test Area]({{/assets/image-21.png | relative_url}})
+  ![Test Area]({{ BASE_PATH }}/assets/images/image-21.png)
 
 ---
 
@@ -244,7 +243,7 @@ public:
 
 For the same question [Two Sum](https://leetcode.com/problems/two-sum), the Python function signature appears as:
 
-![Python Function]({{/assets/image-23.png | relative_url}})
+![Python Function]({{ BASE_PATH }}/assets/images/image-23.png)
 
 ```python
 class Solution(object):
@@ -305,6 +304,6 @@ class Solution(object):
 ```
 
 - **Run Result:**
-  ![Python Test]({{/assets/image-24.png | relative_url}})
+  ![Python Test]({{ BASE_PATH }}/assets/images/image-24.png)
 
 ---

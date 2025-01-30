@@ -1,7 +1,6 @@
 title: "LeetCode Guide"
 description: "A beginner's guide to using LeetCode"
-baseurl: "/LeetCodeGuideSite" 
-url: "https://yanivgabay.github.io"
+BASE_PATH: "/LeetCodeGuideSite"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
