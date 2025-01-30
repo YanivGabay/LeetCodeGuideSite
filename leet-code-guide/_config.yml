@@ -8,5 +8,7 @@ plugins:
 - jekyll-minim
 - jekyll-seo-tag  
 
-include:
-  - _includes/sidebar.html  # ✅ Tell Jekyll to use your custom sidebar
+social_links:
+  github: YanivGabay
+  linkedin: yaniv-gabayy
+  whatsapp: "https://chat.whatsapp.com/IQ3Mghl3NUz09vIdR0t4gd"
