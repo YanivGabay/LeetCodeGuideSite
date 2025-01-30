@@ -31,26 +31,26 @@
 
 1. **צור חשבון:**
    - בקר ב-[LeetCode](https://leetcode.com) וצרו חשבון חינם.
-   - ![פעם ראשונה שלא התחברת](/assets/images/image.png)
+   - ![פעם ראשונה שלא התחברת]({{ site.url }}{{ site.baseurl }}/assets/images/image.png)
 
 2. **אפשר גם ישירות להתחבר דרך GitHub:**
    - לחץ על **Sign In** ובחר באפשרות GitHub לתהליך התחברות יעיל.
-   - ![אפשרויות התחברות](/assets/images/image-1.png)
-   - ![התחברות דרך GitHub](/assets/images/image-2.png)
+   - ![אפשרויות התחברות]({{ site.url }}{{ site.baseurl }}/assets/images/image-1.png)
+   - ![התחברות דרך GitHub]({{ site.url }}{{ site.baseurl }}/assets/images/image-2.png)
 
 3. **דף הבית לאחר התחברות:**
    - לאחר ההתחברות, דף הבית יציג אפשרויות ניווט שונות.
-   - ![דף LeetCode בסיסי](/assets/images/image-3.png)
+   - ![דף LeetCode בסיסי]({{ site.url }}{{ site.baseurl }}/assets/images/image-3.png)
 
 ### 🧭 ניווט בפלטפורמה
 
-![סרגל ניווט](/assets/images/image-4.png)
+![סרגל ניווט]({{ site.url }}{{ site.baseurl }}/assets/images/image-4.png)
 
 ליטקוד מציע מספר חלקים מרכזיים:
 
 - **🔍 Explore:**
   - דפדף בשאלות המסווגות ויזואלית לפי נושאים שונים.
-  - ![דף Explore](/assets/images/image-5.png)
+  - ![דף Explore]({{ site.url }}{{ site.baseurl }}/assets/images/image-5.png)
 
 - **📚 Problems:**
   - גש לרשימה מקיפה של בעיות קוד.
@@ -58,8 +58,8 @@
     - **קושי:** קל, בינוני, קשה
     - **תגיות:** Array, String, Tree, SQL, וכו'
         - אופציה זו מומלצת לסטודנטים שעדיין לא מכירים את כל האפשרויות, לדוגמא סננו לפי Array.
-  - ![דף Problems](/assets/images/image-6.png)
-  - ![תחתית דף Problems](/assets/images/image-7.png)
+  - ![דף Problems]({{ site.url }}{{ site.baseurl }}/assets/images/image-6.png)
+  - ![תחתית דף Problems]({{ site.url }}{{ site.baseurl }}/assets/images/image-7.png)
 
 - **🏆 Contests:**
   - השתתף בתחרויות קוד שבועיות.
@@ -82,15 +82,15 @@
 
 2. **סנן לפי קושי:**
    - מומלץ להתחיל בבעיות **קלות** אם אתם מתחילים.
-   - ![לחיצה על Easy](/assets/images/image-8.png)
+   - ![לחיצה על Easy]({{ site.url }}{{ site.baseurl }}/assets/images/image-8.png)
 
 3. **אתגר יומי:**
    - השאלה הראשונה היא **אתגר יומי**.
    - פתרו אותה מדי יום לבניית רצף, הנראה בפרופיל שלך.
-   - ![אתגר יומי](/assets/images/image-9.png)
+   - ![אתגר יומי]({{ site.url }}{{ site.baseurl }}/assets/images/image-9.png)
 
 4. **דפדוף ברשימה:**
-   - ![רשימת בעיות](/assets/images/image-10.png)
+   - ![רשימת בעיות]({{ site.url }}{{ site.baseurl }}/assets/images/image-10.png)
    - **סטטוס:** מציין אם פתרתם את הבעיה.
    - **שיעור קבלה:** אחוז המשתמשים שפתרו אותה.
    - **סמל נעילה:** תכונה פרימיום המציגה תדירות ראיון ושיעור קבלה *(לא מומלץ)*.
@@ -98,7 +98,7 @@
 5. **בעיות שלא פותרו:**
    - אלו הן הבעיות שטרם התמודדת איתן.
    - אין להם סימון ירוק בצד שמאל.
-   - ![בעיות שלא פותרו](/assets/images/image-11.png)
+   - ![בעיות שלא פותרו]({{ site.url }}{{ site.baseurl }}/assets/images/image-11.png)
 
 ---
 
@@ -106,33 +106,33 @@
 
 1. **בחר בעיה שלא פתרתם:**
    - לחץ על בעיה שטרם פתרתם.
-   - ![Merge Sorted Array](/assets/images/image-12.png)
+   - ![Merge Sorted Array]({{ site.url }}{{ site.baseurl }}/assets/images/image-12.png)
 
 2. **הבן את דף השאלה:**
    - **אזור הקוד:** כתבו את הקוד שלכם כאן.
-     - ![אזור הקוד](/assets/images/image-13.png)
+     - ![אזור הקוד]({{ site.url }}{{ site.baseurl }}/assets/images/image-13.png)
    - **בחירת שפה:** בחר את שפת התכנות המועדפת עליך.
-     - ![בחירת שפה](/assets/images/image-14.png)
+     - ![בחירת שפה]({{ site.url }}{{ site.baseurl }}/assets/images/image-14.png)
 
    **הערה:** ליטקוד מספק את הספריות הנדרשות; אין צורך לייבא אותן ידנית.
 
 3. **מבחני קלט:**
-   - ![אזור מבחני קלט](/assets/images/image-18.png)
+   - ![אזור מבחני קלט]({{ site.url }}{{ site.baseurl }}/assets/images/image-18.png)
    - אתם יכולים לערוך את הטסטים או להוסיף טסטים משלכם.
 
 
 4. **שליחת הפתרון שלך:**
-    - ![הפעל מול שליחה](/assets/images/image-19.png)
+    - ![הפעל מול שליחה]({{ site.url }}{{ site.baseurl }}/assets/images/image-19.png)
    - **Run מול Submit:**
      - **Run:** בדיקות מהירות עם מספר מוגבל של מבחנים.
      - **Submit:** בדיקות מקיפות ומדדי ביצועים.
    - **לאחר השליחה:**
      - צפה כיצד הפתרון שלך מתמודד מול אחרים.
      - אם הצלחת, הבעיה תסומן כ**נפתרה**.
-     - ![הגשה מוצלחת](/assets/images/image-20.png)
+     - ![הגשה מוצלחת]({{ site.url }}{{ site.baseurl }}/assets/images/image-20.png)
 
 5. **תיאור הבעיה:**
-   - ![אזור הבעיה](/assets/images/image-15.png)
+   - ![אזור הבעיה]({{ site.url }}{{ site.baseurl }}/assets/images/image-15.png)
    - **כרטיסיות זמינות:**
      - **Description:** ניסוח הבעיה והגבלות.
      - **Editorial:** *(תכונה פרימיום, לא מומלץ.)*
@@ -141,9 +141,9 @@
 
 6. **צפייה בפתרונות:**
    - סינון לפי שפה וחקור גישות שונות.
-   - ![דוגמת פתרונות](/assets/images/image-16.png)
+   - ![דוגמת פתרונות]({{ site.url }}{{ site.baseurl }}/assets/images/image-16.png)
    - לחיצה על אחד הפתרונות תציג הסברים, קוד ותגובות מהקהילה.
-   - ![פתרון](/assets/images/image-17.png)
+   - ![פתרון]({{ site.url }}{{ site.baseurl }}/assets/images/image-17.png)
 
 
 ---
@@ -162,7 +162,7 @@
 
 אם תבחרו בשאלה [Two Sum](https://leetcode.com/problems/two-sum), תראו את חתימת הפונקציה הבאה:
 
-![אזור קידוד](/assets/images/image-22.png)
+![אזור קידוד]({{ site.url }}{{ site.baseurl }}/assets/images/image-22.png)
 
 <div style="direction: ltr;" markdown="1">
 
@@ -249,7 +249,7 @@ public:
 </div>
 
 - **תוצאת ריצה:**
-  ![אזור מבחן](/assets/images/image-21.png)
+  ![אזור מבחן]({{ site.url }}{{ site.baseurl }}/assets/images/image-21.png)
 
 ---
 
@@ -259,7 +259,7 @@ public:
 
 לאותה שאלה [Two Sum](https://leetcode.com/problems/two-sum), חתימת הפונקציה ב-Python מופיעה כך:
 
-![פונקציית Python](/assets/images/image-23.png)
+![פונקציית Python]({{ site.url }}{{ site.baseurl }}/assets/images/image-23.png)
 
 <div style="direction: ltr;" markdown="1">
 
@@ -333,6 +333,6 @@ class Solution(object):
 </div>
 
 - **תוצאת ריצה:**
-  ![מבחן Python](/assets/images/image-24.png)
+  ![מבחן Python]({{ site.url }}{{ site.baseurl }}/assets/images/image-24.png)
 
 ---
