@@ -31,34 +31,33 @@ LeetCode has become a **comprehensive resource** for **coding interview question
 
 1. **Create an Account:**
    - Visit [LeetCode](https://leetcode.com) and sign up for a free account.
-   - ![First time you're not logged in](/assets/image.png)
-
+   - ![First time you're not logged in]({{/assets/image.png| relative_url}})
 2. **Sign In via GitHub:**
    - Click **Sign In** and choose the GitHub option for a streamlined login process.
-   - ![Sign-In Options](/assets/image-1.png)
-   - ![Login via GitHub](/assets/image-2.png)
+   - ![Sign-In Options]({{/assets/image-1.png| relative_url}})
+   - ![Login via GitHub]({{/assets/image-2.png| relative_url}})
 
 3. **Logged-In Homepage:**
    - Once logged in, your homepage will display various navigation options.
-   - ![Basic LeetCode Page](/assets/image-3.png)
+   - ![Basic LeetCode Page]({{/assets/image-3.png| relative_url}})
 
 ### 🧭 Navigating the Platform
 
-![Navigation Bar](/assets/image-4.png)
+![Navigation Bar]({{/assets/image-4.png| relative_url}})
 
 LeetCode offers several key sections:
 
 - **🔍 Explore:**
   - Browse questions categorized visually by different topics.
-  - ![Explore Page](/assets/image-5.png)
+  - ![Explore Page]({{/assets/image-5.png| relative_url}})
 
 - **📚 Problems:**
   - Access a comprehensive list of coding problems.
   - **Filters Available:**
     - **Difficulty:** Easy, Medium, Hard
     - **Tags:** Array, String, Tree, SQL, etc.
-  - ![Problem Page](/assets/image-6.png)
-  - ![Bottom of Problem Page](/assets/image-7.png)
+  - ![Problem Page]({{/assets/image-6.png| relative_url}})
+  - ![Bottom of Problem Page]({{/assets/image-7.png| relative_url}})
 
 - **🏆 Contests:**
   - Participate in weekly coding contests.
@@ -81,22 +80,22 @@ LeetCode offers several key sections:
 
 2. **Filter by Difficulty:**
    - Select **Easy** to start with manageable problems.
-   - ![Pressing Easy](/assets/image-8.png)
+   - ![Pressing Easy]({{/assets/image-8.png| relative_url}})
 
 3. **Daily Challenge:**
    - The first question is the **Daily Challenge**.
    - Solve it daily to build a streak, visible on your profile.
-   - ![Daily Challenge](/assets/image-9.png)
+   - ![Daily Challenge]({{/assets/image-9.png| relative_url}})
 
 4. **Explore the List:**
-   - ![Problems List](/assets/image-10.png)
+   - ![Problems List]({{/assets/image-10.png| relative_url}})
    - **Status:** Indicates if you've solved the problem.
    - **Acceptance Rate:** Percentage of users who solved it.
    - **Lock Icon:** Premium feature showing interview frequency and acceptance rate *(not recommended)*.
 
 5. **Unsolved Problems:**
    - These problems are yet to be tackled.
-   - ![Unsolved Problems](/assets/image-11.png)
+   - ![Unsolved Problems]({{/assets/image-11.png| relative_url}})
 
 ---
 
@@ -104,23 +103,23 @@ LeetCode offers several key sections:
 
 1. **Select an Unsolved Problem:**
    - Click on a problem you haven't solved yet.
-   - ![Merge Sorted Array](/assets/image-12.png)
+   - ![Merge Sorted Array]({{/assets/image-12.png| relative_url}})
 
 2. **Understand the Problem Page:**
    - **Coding Area:** Write your code here.
-     - ![Coding Area](/assets/image-13.png)
+     - ![Coding Area]({{/assets/image-13.png| relative_url}})
    - **Language Selection:** Choose your preferred programming language.
-     - ![Language Selection](/assets/image-14.png)
+     - ![Language Selection]({{/assets/image-14.png| relative_url}})
 
    **Note:** LeetCode provides necessary libraries; no need to import them manually.
 
 3. **Test Cases:**
-   - ![Test Case Area](/assets/image-18.png)
+   - ![Test Case Area]({{/assets/image-18.png| relative_url}})
    - You can edit the input values and run basic test cases.
    - Can add your own tests by pressing **+**.
 
 4. **Submitting Your Solution:**
-    - ![Run vs Submit](/assets/image-19.png)
+    - ![Run vs Submit]({{/assets/image-19.png| relative_url}})
 
    - **Run vs. Submit:**
      - **Run:** Quick checks with limited test cases.
@@ -128,10 +127,10 @@ LeetCode offers several key sections:
    - **Post-Submission:**
      - View how your solution performs compared to others.
      - If successful, the problem is marked as **solved**.
-     - ![Successful Submission](/assets/image-20.png)
+     - ![Successful Submission]({{/assets/image-20.png| relative_url}})
 
 5. **Problem Description:**
-   - ![Problem Area](/assets/image-15.png)
+   - ![Problem Area]({{/assets/image-15.png| relative_url}})
    - **Tabs Available:**
      - **Description:** Problem statement and constraints.
      - **Editorial:** *(Premium feature, not recommended.)*
@@ -139,9 +138,9 @@ LeetCode offers several key sections:
      - **Submissions:** Your past attempts and their performance.
 
 6. **Viewing Solutions:**
-   - ![Solutions Example](/assets/image-16.png)
+   - ![Solutions Example]({{/assets/image-16.png| relative_url}})
    - Filter by language and explore different approaches.
-   - ![Solution](/assets/image-17.png)
+   - ![Solution]({{/assets/image-17.png| relative_url}})
    - View explanations, code, and community comments.
 
 ---
@@ -160,7 +159,7 @@ I will demonstrate how to use the coding area with **C++** and **Python**. Feel 
 
 If you select the question [Two Sum](https://leetcode.com/problems/two-sum), you'll see the following function signature:
 
-![Coding Area](/assets/image-22.png)
+![Coding Area]({{/assets/image-22.png| relative_url}})
 
 ```cpp
 class Solution {
@@ -235,7 +234,7 @@ public:
 ```
 
 - **Run Result:**
-  ![Test Area](/assets/image-21.png)
+  ![Test Area]({{/assets/image-21.png| relative_url}})
 
 ---
 
@@ -245,7 +244,7 @@ public:
 
 For the same question [Two Sum](https://leetcode.com/problems/two-sum), the Python function signature appears as:
 
-![Python Function](/assets/image-23.png)
+![Python Function]({{/assets/image-23.png| relative_url}})
 
 ```python
 class Solution(object):
@@ -306,6 +305,6 @@ class Solution(object):
 ```
 
 - **Run Result:**
-  ![Python Test](/assets/image-24.png)
+  ![Python Test]({{/assets/image-24.png| relative_url}})
 
 ---
