@@ -5,7 +5,7 @@ title: "LeetCode Guide"
 
 <div style="text-align: center; margin: 20px 0;">
 <button onclick="setLanguage('en')">English</button>
-<button onclick="setLanguage('he')">🇮🇱 עברית</button>
+<button onclick="setLanguage('he')">עברית</button>
 </div>
 
 <!-- English Content -->

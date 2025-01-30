@@ -8,3 +8,5 @@ plugins:
 - jekyll-minim
 - jekyll-seo-tag  
 
+include:
+  - _includes/sidebar.html  # ✅ Tell Jekyll to use your custom sidebar
