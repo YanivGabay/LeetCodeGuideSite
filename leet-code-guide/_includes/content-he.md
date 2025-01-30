@@ -272,7 +272,7 @@ public:
 
 ---
 
- ###  🟢  Python <a id="python-example"></a>
+## 🟢 <a id="python-example"></a> דוגמת קוד ב-Python
 
 #### 📝 דוגמת לחתימת פונקציה
 
