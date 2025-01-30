@@ -3,14 +3,6 @@ layout: default
 title: "LeetCode Guide"
 ---
 
-# 🌍 LeetCode Beginner's Guide
-
-<div id="content-he" markdown="1" style="direction: rtl;">
-
-# 🌍 מדריך למתחילים בליטקוד
-
-</div>
-
 <div style="text-align: center; margin: 20px 0;">
 <button onclick="setLanguage('en')">English</button>
 <button onclick="setLanguage('he')">🇮🇱 עברית</button>
@@ -18,6 +10,7 @@ title: "LeetCode Guide"
 
 <!-- English Content -->
 <div id="content-en" class="lang-en" markdown="1">
+  
   {% include content-en.md %}
 </div>
 <!-- Hebrew Content -->
