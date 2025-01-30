@@ -31,7 +31,7 @@ LeetCode has become a **comprehensive resource** for **coding interview question
 
 1. **Create an Account:**
    - Visit [LeetCode](https://leetcode.com) and sign up for a free account.
-   - ![First time you're not logged in]({{/assets/image.png| relative_url}})
+   - ![First time you're not logged in]({{ site.url }}{{ site.baseurl }}/assets/images/image.png)
 2. **Sign In via GitHub:**
    - Click **Sign In** and choose the GitHub option for a streamlined login process.
    - ![Sign-In Options]({{ site.url }}{{ site.baseurl }}/assets/images/image-1.png)
