@@ -34,16 +34,16 @@ LeetCode has become a **comprehensive resource** for **coding interview question
    - ![First time you're not logged in]({{/assets/image.png| relative_url}})
 2. **Sign In via GitHub:**
    - Click **Sign In** and choose the GitHub option for a streamlined login process.
-   - ![Sign-In Options]({{/assets/image-1.png| relative_url}})
-   - ![Login via GitHub]({{/assets/image-2.png| relative_url}})
+   - ![Sign-In Options]({{/assets/image-1.png | relative_url}})
+   - ![Login via GitHub]({{/assets/image-2.png | relative_url}})
 
 3. **Logged-In Homepage:**
    - Once logged in, your homepage will display various navigation options.
-   - ![Basic LeetCode Page]({{/assets/image-3.png| relative_url}})
+   - ![Basic LeetCode Page]({{/assets/image-3.png | relative_url}})
 
 ### 🧭 Navigating the Platform
 
-![Navigation Bar]({{/assets/image-4.png| relative_url}})
+![Navigation Bar]({{/assets/image-4.png | relative_url}})
 
 LeetCode offers several key sections:
 
