@@ -3,6 +3,7 @@ description: "A beginner's guide to using LeetCode"
 url: "https://yanivgabay.github.io"  
 baseurl: "/LeetCodeGuideSite"
 remote_theme: pages-themes/minimal@v0.2.0
+google_analytics: G-TN2MLDC2ZX
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-minim
