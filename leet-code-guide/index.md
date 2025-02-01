@@ -46,7 +46,7 @@ title: "LeetCode Guide"
     *(בשעה אחת, תוכלו ללמוד איך ליצור אתר בסיסי כמו זה!)*
   📅 **7 בפברואר, 2025**
   🔗 **[הרשמה כאן](https://www.meetup.com/pyweb-il/events/305773690/)**
----
+
 
 
 
@@ -97,7 +97,7 @@ Want to learn how this site was created and deployed? Check out these resources:
     *(In 1 hour, you can learn how to create a basic website like this one!)*
   📅 **February 7th, 2025**  
   🔗 **[Register Here](https://www.meetup.com/pyweb-il/events/305773690/)**  
----
+
 
 </div>
 
