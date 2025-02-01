@@ -12,30 +12,19 @@ title: "LeetCode Guide"
 <div id="content-en" class="lang-en" markdown="1">
   
   {% include content-en.md %}
-</div>
-<!-- Hebrew Content -->
-
-<div id="content-he" class="lang-he" style="display: none; direction: rtl;" markdown="1">
-
-  {% include content-he.md %}
-</div>
 
 
 
-## 🚀 Conclusion
+  ## 🚀 Good luck 🎯
+  for any questions feel free to contact me.
 
-We hope this guide has provided you with a **solid foundation** to begin your LeetCode journey! 🎯  
-Remember, **LeetCode is just a tool**—a way to improve your problem-solving skills, prepare for coding interviews, and grow as a software engineer. Keep practicing, stay consistent, and enjoy the process! 💪
-
----
-
-## 🤝 Contribute to the Guide
+  ## 🤝 Contribute to the Guide
 
 Have suggestions, corrections, or new content ideas? We'd love your contributions!  
 📌 Check out our repository on **GitHub**:  
 [👉 Contribute Here](https://github.com/YanivGabay/LeetCodeGuideSite)
 
----
+
 
 ## 📅 Stay Consistent with Daily LeetCode Reminders! 📢
 
@@ -44,7 +33,6 @@ We’re here to **remind and motivate you daily**! 🚀
 
 📲 **[Join the WhatsApp Group](https://chat.whatsapp.com/IQ3Mghl3NUz09vIdR0t4gd)**
 
----
 
 ## 🌍 About This Site
 
@@ -63,6 +51,61 @@ Want to learn how this site was created and deployed? Check out these resources:
     *(In 1 hour, you can learn how to create a basic website like this one!)*
   📅 **February 7th, 2025**  
   🔗 **[Register Here](https://www.meetup.com/pyweb-il/events/305773690/)**  
+---
+
+</div>
+<!-- Hebrew Content -->
+
+<div id="content-he" class="lang-he" style="display: none; direction: rtl;" markdown="1">
+
+  {% include content-he.md %}
+
+  ## 🚀 בהצלחה 🎯
+  לכל שאלה ניתן לפנות ולעדכן בגיטהב.
+
+  ## 🤝 לתרום דרך גיטהאב
+  אם יש לכם הצעות, תיקונים או רעיונות לתוכן חדש, אשמח שתתרמו גם לקוד.
+  כנסו לקישור ותוכלו לראות את הקוד ולתרום דרך גיטהאב.
+  [👉 לתרום כאן](https://github.com/YanivGabay/LeetCodeGuideSite)
+
+## 📅 רוצים תזכורת יומית ? 📢
+
+הצטרפו לקבוצת הוואטסאפ שלנו, שם אנחנו מפרסמים שאלות קלות באופן יומי כתזכורת.
+
+📲 **[הצטרפו לקבוצת הוואטסאפ](https://chat.whatsapp.com/IQ3Mghl3NUz09vIdR0t4gd)**
+
+
+## 🌍 רוצים לבנות אתר כמו זה?
+
+המדריך הזה נבנה במרקדאון והומר לאתר ע"י ג'קיל.
+האתר נבנה בעזרת ערכת העיצוב Minimal כדי לשמור על ניקיון ופשטות.
+
+🎨 **ערכת העיצוב שנמצאת בשימוש:** [Minimal]( )
+
+רוצים ללמוד איך בונים אתר כזה? כנסו לקישורים הבאים:
+
+📖 **מדריכים שימושיים:**
+- 📌 **[יצירת אתר ב-GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)**  
+  *(תיעוד רשמי של GitHub)*
+
+- 🎓 **שיעור חינמי באינטרנט (בעברית) עם גאבור סבו - יצירת אתר ב-GitHub Pages בעזרת Markdown**  
+    *(בשעה אחת, תוכלו ללמוד איך ליצור אתר בסיסי כמו זה!)*
+  📅 **7 בפברואר, 2025**
+  🔗 **[הרשמה כאן](https://www.meetup.com/pyweb-il/events/305773690/)**
+---
+
+
+
+</div>
+
+
+ 
+</div>
+<div id=>
+
+
+---
+
 
 ---
 
