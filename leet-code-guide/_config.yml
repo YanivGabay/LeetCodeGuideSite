@@ -1,7 +1,7 @@
 title: "LeetCode Guide"
 description: "A beginner's guide to using LeetCode"
 url: "https://yanivgabay.github.io"  
-baseurl: "/LeetCodeGuideSite"
+baseurl: "/leetcode-web-guide"
 remote_theme: pages-themes/minimal@v0.2.0
 google_analytics: G-TN2MLDC2ZX
 plugins:
