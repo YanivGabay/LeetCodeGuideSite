@@ -34,7 +34,7 @@ title: "LeetCode Guide"
 המדריך הזה נבנה במרקדאון והומר לאתר ע"י ג'קיל.
 האתר נבנה בעזרת ערכת העיצוב Minimal כדי לשמור על ניקיון ופשטות.
 
-🎨 **ערכת העיצוב שנמצאת בשימוש:** [Minimal]( https://github.com/pages-themes/minimal)
+🎨 **ערכת העיצוב שנמצאת בשימוש:** [Minimal](https://github.com/pages-themes/minimal)
 
 רוצים ללמוד איך בונים אתר כזה? כנסו לקישורים הבאים:
 
@@ -97,6 +97,7 @@ Want to learn how this site was created and deployed? Check out these resources:
     *(In 1 hour, you can learn how to create a basic website like this one!)*
   📅 **February 7th, 2025**  
   🔗 **[Register Here](https://www.meetup.com/pyweb-il/events/305773690/)**  
+
 
 
 </div>
