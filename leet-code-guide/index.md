@@ -14,13 +14,13 @@ title: "LeetCode Guide"
 
   {% include content-he.md %}
 
-  ## 🚀 בהצלחה 🎯
-  לכל שאלה ניתן לפנות ולעדכן בגיטהב.
+## 🚀 בהצלחה 🎯
+לכל שאלה ניתן לפנות ולעדכן בגיטהב.
 
-  ## 🤝 לתרום דרך גיטהאב
-  אם יש לכם הצעות, תיקונים או רעיונות לתוכן חדש, אשמח שתתרמו גם לקוד.
-  כנסו לקישור ותוכלו לראות את הקוד ולתרום דרך גיטהאב.
-  [👉 לתרום כאן](https://github.com/YanivGabay/LeetCodeGuideSite)
+## 🤝 לתרום דרך גיטהאב
+אם יש לכם הצעות, תיקונים או רעיונות לתוכן חדש, אשמח שתתרמו גם לקוד.
+כנסו לקישור ותוכלו לראות את הקוד ולתרום דרך גיטהאב.
+[👉 לתרום כאן](https://github.com/YanivGabay/LeetCodeGuideSite)
 
 ## 📅 רוצים תזכורת יומית ? 📢
 
@@ -61,10 +61,10 @@ title: "LeetCode Guide"
 
 
 
-  ## 🚀 Good luck 🎯
-  for any questions feel free to contact me.
+## 🚀 Good luck 🎯
+for any questions feel free to contact me.
 
-  ## 🤝 Contribute to the Guide
+## 🤝 Contribute to the Guide
 
 Have suggestions, corrections, or new content ideas? We'd love your contributions!  
 📌 Check out our repository on **GitHub**:  
